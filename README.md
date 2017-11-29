@@ -337,8 +337,7 @@ cs_clone { 'nginx_service-clone' :
 }
 ```
 
-Configuring stonith resources
-----------------------------
+### Configuring stonith resources
 
 Stonith resources allow the cluster to protect its resources from running on
 unresponsive nodes. This can be achieved by a number of means with the aid of the
